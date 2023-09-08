@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header() {
   return (
     <div>
-    <div className='fixed w-full bg-white flex justify-between border border-black'>
+    <div className='w-full bg-white flex justify-between border border-black'>
       <div></div>
       <div className='flex right-0'>
         <a className='p-1 m-auto'>UA</a>

@@ -115,7 +115,6 @@ export class App extends Component {
     return (
       <div className='text-blue-400'>
         <Header />
-        <HeaderS />
         <Nav />
         <Main items = {this.state.items}/>
       </div>
